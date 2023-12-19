@@ -1,4 +1,3 @@
 hello git world
 hello smvit
 hi sir
-hi everyone
